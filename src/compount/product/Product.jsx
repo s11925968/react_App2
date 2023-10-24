@@ -1,4 +1,4 @@
-import Products from './products';
+import Products from './Products.jsx';
 import React from 'react'
 
 export default function Product() {
